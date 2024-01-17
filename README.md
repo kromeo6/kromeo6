@@ -11,7 +11,7 @@ I am Machine Learning Engineer, Proficient in predictive modeling, data processi
 - Churn Prediction using customers transactions data
 - Income estimation model for the large bank
 
-**Contacts:**
+**Personal:**
 - 🔭 I’m currently working on RAG chatbot on Azure, using Azure Open AI and Azure Chat
 - 📫 How to reach me: r.kutubidze.ai@gmail.com
 - ⚡ Fun fact: I love to cook. My signature dish is homemade spaghetti and meatballs
