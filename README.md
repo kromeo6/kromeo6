@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Machine Learning Engineer, Proficient in predictive modeling, data processing, and data mining.Capable of creating, developing,testing and deploying highly adaptive diverse services to translate business and functioonal qualifications into substantial deliverables.
+I am MLOps Engineer, Proficient in predictive modeling, data processing, and data mining.Capable of creating, developing,testing and deploying highly adaptive diverse services to translate business and functioonal qualifications into substantial deliverables.
 
 **What I have worked on:**
 - Trained and deployed model in production using Azure machine learning studio.I used github actions for CI/CD,
